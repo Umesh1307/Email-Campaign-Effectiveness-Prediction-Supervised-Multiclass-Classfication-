@@ -84,6 +84,16 @@ Needs of this project
 * data processing/cleaning
 * predictive modeling
 
+
+# 📜 Credits
+Umesh Rathod | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Contact me for Data Science Project Collaborations
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/umesh-rathod-894720186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umesh-rathod-894720186/" height="30" width="40" /></a>
+<a href="https://medium.com/@umesh.rathod1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umesh.rathod1307" height="30" width="40" /></a>
+</p>
+
+
 ![rainbow](https://user-images.githubusercontent.com/75175373/153423947-b706cb4b-f598-4ca7-8eb5-4be41349bc30.png)
 
 📚 References
